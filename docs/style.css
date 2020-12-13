@@ -1,5 +1,5 @@
-.resume-home {
-    margin-top: 100px;
+.home-card {
+    margin-top: 50px;
 }
 
 .home-img {
@@ -8,4 +8,9 @@
 
 .footer {
     margin: auto;
+}
+
+.project-card {
+    margin-top: 50px;
+    max-width: 960px;
 }
