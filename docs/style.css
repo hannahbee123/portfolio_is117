@@ -1,42 +1,57 @@
+/* navbar text */
 .nav-text {
     font-family: Verdana, sans-serif;
 }
 
+/* home card container */
 .home-card {
     margin-top: 70px;
     max-width: 900px;
 }
 
+/* home card text */
 .home-card-body {
     margin-top: 30px;
     text-align: center;
     font-family: Verdana, sans-serif;
 }
 
+/* home card body text under header */
 .home-text {
     margin-top: 20px;
     margin-left: 30px;
     margin-right: 30px;
 }
 
+/* home image */
 .home-img {
     max-width: 400px;
 }
 
+/* resume button on home page */
 .resume-button {
     margin-top: 20px;
 }
 
+/* footer on all pages */
 .footer {
     margin: auto;
 }
 
+/* footer text on all pages */
 .footer-text {
     font-family: Verdana, sans-serif;
     font-size: small;
 }
 
+/* project card container */
 .project-card {
     margin-top: 50px;
     max-width: 960px;
+}
+
+/* project card text */
+.project-card-text {
+    font-family: Verdana, sans-serif;
+    text-align: center;
 }
