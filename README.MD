@@ -2,7 +2,7 @@
 
 1. Created by Hannah Benjamin
 
-2. Hosted on: https://hbenjamin529.github.io/portfolio_is117/
+2. Hosted on: https://hannahbee123.github.io/portfolio_is117/
 
 3. Design: https://1drv.ms/b/s!ArsWfv9HWLMCh2LoBE-qseWfHJVa?e=7ZacHv
 
